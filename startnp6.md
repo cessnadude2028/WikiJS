@@ -2,7 +2,7 @@
 title: Setting Up WayStation
 description: 
 published: 1
-date: 2026-02-08T11:23:34.320Z
+date: 2026-02-08T11:25:19.159Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-08T11:00:37.578Z
@@ -30,7 +30,7 @@ Upon Opening the file search for this block
       </Section>
 ```
 
-Change the "networkAdaptorBaseIp" value="192.168.1"/>, to the first 3 octets of your computers IP
+Change the "networkAdaptorBaseIp" to the first 3 octets of your computers IP
 
 ## Sample WayStation Config
 The code below is my sample config for my WayStation,
