@@ -2,7 +2,7 @@
 title: Setting Up WayStation
 description: 
 published: 1
-date: 2026-02-08T11:26:01.569Z
+date: 2026-02-08T11:27:04.536Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-08T11:00:37.578Z
@@ -28,7 +28,7 @@ Upon Opening the file search for this block
       </Section>
 ```
 
-Change the "networkAdaptorBaseIp" to the first 3 octets of your computers IP
+Change the "networkAdaptorBaseIp" to the first 3 octets of your computers IP, and do the exact same for the _PROD_PRI_pos-db.xml
 
 ## Sample WayStation Config
 The code below is my sample config for my WayStation,
