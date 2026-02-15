@@ -2,7 +2,7 @@
 title: Setting Up WayStation
 description: 
 published: 1
-date: 2026-02-15T23:14:57.104Z
+date: 2026-02-15T23:16:27.129Z
 tags: newpos61
 editor: markdown
 dateCreated: 2026-02-08T11:00:37.578Z
@@ -12,7 +12,7 @@ dateCreated: 2026-02-08T11:00:37.578Z
 
 ## Setting the IP
 First thing your going to want to do is set the IP inside of _WAYSTATION_pos-db.xml, This is critical as it lets the KVS and all the other devices see the WayStation. This shows the file's location.![screenshot_2026-02-08_051845.png](/screenshot_2026-02-08_051845.png)
->I would recomend using NP++ as these files are xml and its easier to read with it
+>I would recommend using NP++ as these files are xml and its easier to read with it
 {.is-info}
 
 Upon Opening the file search for this block
@@ -31,7 +31,7 @@ Upon Opening the file search for this block
 Change the "networkAdaptorBaseIp" to the first 3 octets of your computers IP, and do the exact same for the _PROD_PRI_pos-db.xml
 
 ## Sample WayStation Config
->Do not move the start.np6 file from its directory or NewPos will not start!!!!
+>Do not move the start.np6 file from its directory or NewPOS will not start!!!!
 {.is-warning}
 
 The code below is my sample config for my WayStation, This file is located in NewPos61\bat\start.np6
