@@ -2,7 +2,7 @@
 title: Setting Up WayStation
 description: 
 published: 1
-date: 2026-02-15T23:11:35.955Z
+date: 2026-02-15T23:12:25.964Z
 tags: newpos61
 editor: markdown
 dateCreated: 2026-02-08T11:00:37.578Z
@@ -11,7 +11,7 @@ dateCreated: 2026-02-08T11:00:37.578Z
 # This is how to setup the WayStation in start.np6
 
 ## Setting the IP
-First thing your going to want to do is set the IP inside of _WAYSTATION_pos-db.xml, This is critical as it lets the KVS and all the other devices see the WayStation, The picture below will show where the file is located![screenshot_2026-02-08_051845.png](/screenshot_2026-02-08_051845.png)
+First thing your going to want to do is set the IP inside of _WAYSTATION_pos-db.xml, This is critical as it lets the KVS and all the other devices see the WayStation, The picture shows where the file is located![screenshot_2026-02-08_051845.png](/screenshot_2026-02-08_051845.png)
 >I would recomend using NP++ as these files are xml and its easier to read with it
 {.is-info}
 
