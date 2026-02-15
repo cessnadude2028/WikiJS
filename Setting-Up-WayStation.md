@@ -2,7 +2,7 @@
 title: Setting Up WayStation
 description: 
 published: 1
-date: 2026-02-15T23:13:54.526Z
+date: 2026-02-15T23:14:12.514Z
 tags: newpos61
 editor: markdown
 dateCreated: 2026-02-08T11:00:37.578Z
