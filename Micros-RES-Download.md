@@ -2,7 +2,7 @@
 title: Micros RES 3700
 description: 
 published: 1
-date: 2026-02-15T21:57:08.436Z
+date: 2026-02-15T21:57:11.080Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-15T21:56:24.524Z

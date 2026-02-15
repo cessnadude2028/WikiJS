@@ -2,7 +2,7 @@
 title: NCR Aloha Download
 description: 
 published: 1
-date: 2026-02-11T05:40:35.780Z
+date: 2026-02-11T05:40:40.453Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-11T05:40:35.780Z
