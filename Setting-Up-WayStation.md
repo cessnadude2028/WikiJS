@@ -2,7 +2,7 @@
 title: Setting Up WayStation
 description: 
 published: 1
-date: 2026-02-15T22:44:22.804Z
+date: 2026-02-15T23:11:35.955Z
 tags: newpos61
 editor: markdown
 dateCreated: 2026-02-08T11:00:37.578Z
@@ -34,7 +34,7 @@ Change the "networkAdaptorBaseIp" to the first 3 octets of your computers IP, an
 >Do not move the start.np6 file from its directory or NewPos will not start!!!!
 {.is-warning}
 
-The code below is my sample config for my WayStation, 
+The code below is my sample config for my WayStation, This file is located in bat\start.np6
 ```
 ..\bin | npapp.exe "..\POSDATA\_WAYSTATION_pos-db.xml" "..\OUT" "..\TEMP" pos-log61.properties
 ..\bin | npapp.exe "..\POSDATA\_PROD_PRI_pos-db.xml" "..\OUT" "..\TEMP" pos-log61.properties
