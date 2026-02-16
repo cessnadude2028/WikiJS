@@ -2,14 +2,25 @@
 title: Micros RES 3700
 description: 
 published: 1
-date: 2026-02-16T01:28:23.186Z
+date: 2026-02-16T02:35:01.067Z
 tags: 
 editor: markdown
 dateCreated: 2026-02-15T21:56:24.524Z
 ---
 
 # Micros RES 3700
-This page will contain the download and install guide for the Micros Res 3700 Office and POS install
+## Downloads:
+View the folder withall Micros downloads here: https://drive.google.com/drive/folders/1GMizM627mMLuyi_h1qKGPnGwXXuZEwiH?usp=sharing
+> Prerequisites require Adobe Reader DC v17 to install. We are searching for this download.
+{.is-warning}
 
-but it is taking a really long time to upload soooo
+## Setup Instructions:
+1. Open the "Prerequisites.exe" file.
+2. Attempt to install.
+3. Wait for the error to pop up.
+4. When the error pops up, close out the installer and decide to wait for us to get the software needed. If I'm gonna be honest, why are you even reading this? I told you it wasn't done.
+
+look:
+
 ![image.png](/image.png)
+https://discord.com/channels/1356331136485294250/1425250284317311219/1472783032296538234
